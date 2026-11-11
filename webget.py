@@ -1,3 +1,4 @@
+# GitHub: https://github.com/fy1rrr/-2026
 import socket#导入socket模块 用于创建TCP连接和收发数据
 import sys#导入sys模块 用于读取命令行参数和退出程序
 
